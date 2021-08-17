@@ -9,8 +9,6 @@ INSERT INTO curso (id, nome) VALUES (2, 'HTML');
 INSERT INTO curso (id, nome) VALUES (1, 'JS');
 
 
-
-
 CREATE TABLE aluno(
 	id SERIAL PRIMARY KEY,
 	nome VARCHAR(255) NOT NULL
